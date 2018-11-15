@@ -106,3 +106,4 @@ interface FooProps extends DetailedHTMLProps<ButtonHTMLAttributes<HTMLButtonElem
   title: string
 }
 ```
+test2
