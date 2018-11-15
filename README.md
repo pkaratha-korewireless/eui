@@ -67,7 +67,6 @@ You can find documentation around creating and submitting new components in [CON
 * [Theming][theming]
 * [Releasing versions][releasing-versions]
 
-## License
 
 [Apache Licensed.][license] Read the [FAQ][faq] for details.
 
@@ -83,3 +82,4 @@ You can find documentation around creating and submitting new components in [CON
 [theming]: wiki/theming.md
 [react-router]: wiki/react-router.md
 [docs]: https://elastic.github.io/eui/
+Hello world
